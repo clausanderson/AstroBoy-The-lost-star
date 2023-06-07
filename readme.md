@@ -14,7 +14,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Autor:**  Sanderson Seco, Claudia
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este videojuego trata sobre el personaje japones animado AstroBoy (Osamu Tezuka) y una serie de mini juegos con el objetivo de en cada uno encontrar las estrellas perdidas.
 
 **Estilo/género: juego
 
